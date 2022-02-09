@@ -41,4 +41,4 @@
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hheenry&show_icons=true&locale=en" alt="hheenry" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hheenry&show_icons=true&locale=en&layout=compact" alt="hheenry" /></p>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=hheenry&show_icons=true&locale=en&layout=compact" alt="hheenry" /></p>
